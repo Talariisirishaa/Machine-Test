@@ -1,0 +1,44 @@
+{
+  "Employees": [
+    {
+      "name": " Heidi S. Cummins ",
+      "email": "Heidi005@gmail.com",
+      "mobile": "719-461-9936",
+      "designation": "Manager",
+      "course": "BSC(Bachelor of Science)",
+      "gender": "female",
+      "imagename": "1728219102344_loginconfirmation alert.png",
+      "id": 1
+    },
+    {
+      "name": " Sasha Arnold ",
+      "email": "Arnold9990gmail.com",
+      "mobile": "(248) 762-0356",
+      "designation": "HR",
+      "course": "BCA (Bachelor of Computer Application)",
+      "gender": "female",
+      "imagename": "1728219102344_loginconfirmation alert.png",
+      "id": 2
+    },
+    {
+      "name": "Daisy Kane ",
+      "email": "Daisyyyyyyy333@gmail.com",
+      "mobile": "(234) 109-6666",
+      "designation": "Sales",
+      "course": "BSC(Bachelor of Science)",
+      "gender": "female",
+      "imagename": "1728219102344_loginconfirmation alert.png",
+      "id": 4
+    },
+    {
+      "name": " Talari shireesha",
+      "email": "talarisirisha30@gmail.com",
+      "mobile": "7019497488",
+      "designation": "sales",
+      "course": "Bca",
+      "gender": "female",
+      "imagename": "1728219102344_loginconfirmation Screenshot 2024-07-12 190112",
+      "id": 5
+    }
+  ]
+}
